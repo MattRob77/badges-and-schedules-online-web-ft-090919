@@ -1,2 +1,2 @@
 speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-def batch_
+def badge_maker()
