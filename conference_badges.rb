@@ -17,4 +17,5 @@ attendees.each_with_index.map do |attendee, index|
   end
 end
 
-
+def printer(attendees)
+  
